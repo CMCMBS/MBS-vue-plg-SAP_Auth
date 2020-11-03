@@ -12,4 +12,4 @@ module.exports = {
         }
     },
     completeMessage: "Fertig"
-}
+};
