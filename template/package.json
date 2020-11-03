@@ -1,0 +1,6 @@
+{
+    "SAP_Login": {
+        "Username": "{{SAP_User}}",
+        "Password": "{{SAP_Password}}"
+    }
+}
